@@ -1,4 +1,4 @@
-# king-ace-cricket
+# King and Ace Cricket
 King and Ace Cricket is a card game invented by Vyktory Knight.
 
 
@@ -13,3 +13,7 @@ If the bowler's card is higher,  a dot ball or a wicket happens. If the batter's
 The innings ends after ten overs or five wickets then the players change sides. Standard cricket scoring rules decide who wins. A standard cricket scoresheet can be used to score the game.
 
 The card values are Ace to 4 scoring one run, 5 to 7 scoring two runs, 8 scoring three, 9 to 10 scoring a four, Jack and Queen scoring a six and King being a wicket.
+
+## License
+
+This game is licensed Creative Commons Zero.
